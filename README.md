@@ -5,8 +5,6 @@ RAG based conversational AI both using Ollama mistral and nomic-embed-text embed
 
 1. Clone the repository to your local machine
 2. Run `pip install -r requirements.txt` to install the required dependencies
-3. Get your OpenAI API key and save it in the `.env` file in the project directly
-`OPENAI_API_KEY="your_secret_api_key"`
 
 ## How to run it locally
 
