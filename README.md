@@ -8,7 +8,7 @@ RAG based conversational AI both using Ollama mistral and nomic-embed-text embed
 
 ## How to run it locally
 
-1. Run the `app.py` file from the project directly using `streamlit run fully_local_rag.py`
+1. Run the `fully_local_rag.py` file from the project directly using `streamlit run fully_local_rag.py`
 2. This will launch the app in your web browser
 3. You can load multiple PDFs and DOCX files and click on Process. 
 4. Once the processing is complete, you can chat with the bot about uploaded documents.
